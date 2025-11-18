@@ -1,0 +1,1 @@
+A project to analyse an E_Commerce database to predict the yearly amount spent for a given person using liner regression model for machine learning.
