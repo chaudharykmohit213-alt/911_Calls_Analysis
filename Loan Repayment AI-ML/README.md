@@ -1,0 +1,1 @@
+A project to predict the repayment of loan for a given person by analysing the data for a large number of people and using Random Forest Classifier for Machine Learning.
