@@ -1,0 +1,1 @@
+A python program to predict a "TARGET CLASS" using the parameters available in the file " Classified Data" by using KNN Concept.
