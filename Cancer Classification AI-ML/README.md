@@ -1,0 +1,1 @@
+This project utilized a Deep Neural Network (DNN) with Dropout and Early Stopping to classify tumors as Benign (0) or Malignant (1). The model was trained on scaled medical features using binary cross-entropy loss, achieving high predictive accuracy for diagnostic support.
