@@ -1,0 +1,1 @@
+A Python Program to predict the house prices in a certain area using the available features such as number of bedrooms, carpet area, pin code etc for a data base based on actual field data by using Linear Regression Model for Machine Learning.It involves data visualization and final model creation.
